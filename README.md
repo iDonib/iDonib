@@ -2,9 +2,9 @@
 
 <h3 align="center">A Manchester City fan who does nothing at all.</h3>
 
-<img align="right" alt="Coding" width="350" height="200" src="https://www.lambdatest.com/resources/images/news24.gif"/> 
+<img align="right" alt="Coding" width="300" height="175" src="https://www.lambdatest.com/resources/images/news24.gif"/> 
 
-<img align="right" alt="city" margin="20" width="250" height="200" src="https://media.tenor.com/DKr5-oepScoAAAAd/manchester-city-manchester.gif"/> 
+<img align="right" alt="city" width="225" height="175" src="https://media.tenor.com/DKr5-oepScoAAAAd/manchester-city-manchester.gif"/> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donib-irakihda&label=Profile%20views&color=0e75b6&style=flat" alt="donib-irakihda" /> </p>
