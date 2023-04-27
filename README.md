@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Binod Adhikari</h1>
+
 <h3 align="center">A Manchester City fan who does nothing at all.</h3>
+
+<img align="right" alt="Coding" width="350" height="200" src="https://www.lambdatest.com/resources/images/news24.gif"/> 
+
+<img align="right" alt="city" margin="20" width="250" height="200" src="https://media.tenor.com/DKr5-oepScoAAAAd/manchester-city-manchester.gif"/> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donib-irakihda&label=Profile%20views&color=0e75b6&style=flat" alt="donib-irakihda" /> </p>
 
