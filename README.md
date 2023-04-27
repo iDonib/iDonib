@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binod Adhikari</h1>
-<h3 align="center">A Manchester City fan who does back-end development aside.</h3>
+<h3 align="center">A Manchester City fan who does nothing at all.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donib-irakihda&label=Profile%20views&color=0e75b6&style=flat" alt="donib-irakihda" /> </p>
 
