@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Binod Adhikari!</h1>
+<h1 align="center">Namaste 🙏, I'm Binod Adhikari!</h1>
 
 <h3 align="center">A Manchester City fan who does nothing at all.</h3>
 
